@@ -1,6 +1,11 @@
 /*
  * Vertical Centering
  */
+ 
+.center-vertical-wrap {
+    position: relative;
+}
+
 .center-vertical {
     position: absolute;
     top: 50%;
