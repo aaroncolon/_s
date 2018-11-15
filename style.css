@@ -1541,8 +1541,10 @@ a.object-fluid {
 .sticky {
   display: block; }
 
-.hentry {
-  margin: 0 0 1.5em; }
+.post,
+.page {
+	margin: 0 0 1.5em;
+}
 
 .updated:not(.published) {
   display: none; }
